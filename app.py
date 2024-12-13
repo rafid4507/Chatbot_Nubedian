@@ -1,1 +1,1 @@
-print('Venv')
+print('Starting the project')
